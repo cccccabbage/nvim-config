@@ -3,7 +3,7 @@ This is my personal Neovim config, but feel free to use the config.
 
 My major language is C/CPP, along with little Python and Rust.
 
-So this config is friendly to C/CPP users, and may be friendly to Python and Rust users as well.
+So this config is friendly to C/CPP users, and may be friendly to Python and Rust users someday.
 
 ## Requirements
 1. neovim
